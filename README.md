@@ -1,7 +1,5 @@
 # C-CDA Interoperability Hub
 
-A .NET 8 healthcare interoperability platform for generating, validating, importing, reconciling, correcting, exchanging, and governing HL7 C-CDA clinical documents from one secure operations portal.
-
 The C-CDA Interoperability Hub is designed for teams that need to move clinical documents between EHR, EMR, HMIS, HIE, provider portal, patient portal, Direct messaging, and downstream application workflows while preserving auditability, standards validation, and operational control.
 
 ![C-CDA Interoperability Hub Dashboard](screens/2.PNG)
